@@ -104,3 +104,4 @@
 - [PHP短信发送](https://github.com/overtrue/easy-sms)
 - [htm/css生成油画](https://github.com/cyanharlow/purecss-francine)
 - [PHP外贸商城](https://github.com/magento/magento2)
+- [百度网盘加速](https://github.com/syhyz1990/baiduyun)
